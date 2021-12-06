@@ -13,4 +13,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 - `cdk diff` compare deployed stack with current state
 - `cdk synth` emits the synthesized CloudFormation template
 
-# Simple CRUD Graphql API made with AWS cdk
+### Simple CRUD Graphql API made with AWS cdk
+
+Useful configuration links:
+
+- https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
